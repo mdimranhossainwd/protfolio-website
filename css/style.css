@@ -116,3 +116,35 @@ header {
 .banner-content a {
   text-decoration: none;
 }
+
+main {
+  max-width: 1140px;
+  margin: 0 auto;
+}
+
+.about-area {
+  margin: 130px 0;
+}
+
+.about-content {
+  text-align: center;
+  padding: 110px;
+  background-color: #fff8f3;
+}
+
+.about-content h3 {
+  font-size: 40px;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+.about-content p {
+  font-size: 18px;
+  font-weight: 400;
+  margin-bottom: 30px;
+}
+
+.about-box {
+  display: flex;
+  justify-content: space-between;
+}
